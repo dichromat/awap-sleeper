@@ -8,6 +8,7 @@ from src.buildings import Building
 
 class BotPlayer(Player):
     def __init__(self, map: Map):
+        #penis man
         pass
     
     def play_turn(self, rc: RobotController):
